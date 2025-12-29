@@ -1,0 +1,2642 @@
+{
+  "version": 1,
+  "updated": "2025-12-29",
+  "trackers": [
+    {
+      "tk": 1,
+      "plataforma": 1,
+      "controlbox_id": 1,
+      "channel": 50,
+      "strings": [
+        "01_01_01",
+        "01_02_01"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 2,
+      "plataforma": 1,
+      "controlbox_id": 2,
+      "channel": 50,
+      "strings": [
+        "01_01_02",
+        "01_02_02"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 3,
+      "plataforma": 1,
+      "controlbox_id": 3,
+      "channel": 50,
+      "strings": [
+        "01_01_03",
+        "01_02_03"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 4,
+      "plataforma": 1,
+      "controlbox_id": 4,
+      "channel": 50,
+      "strings": [
+        "01_01_04",
+        "01_02_04"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 5,
+      "plataforma": 1,
+      "controlbox_id": 5,
+      "channel": 50,
+      "strings": [
+        "01_01_05",
+        "01_02_05"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 6,
+      "plataforma": 1,
+      "controlbox_id": 6,
+      "channel": 50,
+      "strings": [
+        "01_01_06",
+        "01_02_06"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 7,
+      "plataforma": 1,
+      "controlbox_id": 7,
+      "channel": 50,
+      "strings": [
+        "01_01_07",
+        "01_02_07"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 8,
+      "plataforma": 1,
+      "controlbox_id": 8,
+      "channel": 50,
+      "strings": [
+        "01_01_08",
+        "01_02_08"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 9,
+      "plataforma": 1,
+      "controlbox_id": 9,
+      "channel": 50,
+      "strings": [
+        "01_01_09",
+        "01_02_09"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 10,
+      "plataforma": 1,
+      "controlbox_id": 10,
+      "channel": 50,
+      "strings": [
+        "01_01_10",
+        "01_02_10"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 11,
+      "plataforma": 1,
+      "controlbox_id": 11,
+      "channel": 50,
+      "strings": [
+        "01_01_11",
+        "01_02_11"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 12,
+      "plataforma": 1,
+      "controlbox_id": 12,
+      "channel": 50,
+      "strings": [
+        "01_01_12",
+        "01_02_12"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 13,
+      "plataforma": 1,
+      "controlbox_id": 13,
+      "channel": 50,
+      "strings": [
+        "01_01_13",
+        "01_02_13"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 14,
+      "plataforma": 1,
+      "controlbox_id": 14,
+      "channel": 50,
+      "strings": [
+        "01_01_14",
+        "01_02_14"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 15,
+      "plataforma": 1,
+      "controlbox_id": 15,
+      "channel": 50,
+      "strings": [
+        "01_01_15",
+        "01_02_15"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 16,
+      "plataforma": 1,
+      "controlbox_id": 16,
+      "channel": 50,
+      "strings": [
+        "01_01_16",
+        "01_02_16"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 17,
+      "plataforma": 1,
+      "controlbox_id": 17,
+      "channel": 50,
+      "strings": [
+        "01_01_17",
+        "01_02_17"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 18,
+      "plataforma": 1,
+      "controlbox_id": 18,
+      "channel": 50,
+      "strings": [
+        "01_01_18",
+        "01_02_18"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 19,
+      "plataforma": 1,
+      "controlbox_id": 19,
+      "channel": 50,
+      "strings": [
+        "01_01_19",
+        "01_02_19"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 20,
+      "plataforma": 1,
+      "controlbox_id": 20,
+      "channel": 50,
+      "strings": [
+        "01_01_20",
+        "01_02_20"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 21,
+      "plataforma": 1,
+      "controlbox_id": 21,
+      "channel": 50,
+      "strings": [
+        "01_01_21",
+        "01_02_21"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 22,
+      "plataforma": 1,
+      "controlbox_id": 22,
+      "channel": 50,
+      "strings": [
+        "01_01_22",
+        "01_02_22"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 23,
+      "plataforma": 1,
+      "controlbox_id": 23,
+      "channel": 50,
+      "strings": [
+        "01_01_23",
+        "01_02_23"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 24,
+      "plataforma": 1,
+      "controlbox_id": 24,
+      "channel": 50,
+      "strings": [
+        "01_01_24",
+        "01_02_24"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 25,
+      "plataforma": 1,
+      "controlbox_id": 25,
+      "channel": 50,
+      "strings": [
+        "01_01_25",
+        "01_02_25"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 26,
+      "plataforma": 1,
+      "controlbox_id": 26,
+      "channel": 50,
+      "strings": [
+        "01_01_26",
+        "01_02_26"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 27,
+      "plataforma": 1,
+      "controlbox_id": 27,
+      "channel": 50,
+      "strings": [
+        "01_01_27",
+        "01_02_27"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 28,
+      "plataforma": 1,
+      "controlbox_id": 28,
+      "channel": 50,
+      "strings": [
+        "01_01_28",
+        "01_02_28"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 29,
+      "plataforma": 1,
+      "controlbox_id": 29,
+      "channel": 50,
+      "strings": [
+        "01_01_29",
+        "01_02_29"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 30,
+      "plataforma": 1,
+      "controlbox_id": 30,
+      "channel": 50,
+      "strings": [
+        "01_01_30",
+        "01_02_30"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 31,
+      "plataforma": 1,
+      "controlbox_id": 31,
+      "channel": 50,
+      "strings": [
+        "01_01_31",
+        "01_02_31"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 32,
+      "plataforma": 1,
+      "controlbox_id": 32,
+      "channel": 50,
+      "strings": [
+        "01_01_32",
+        "01_02_32"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 33,
+      "plataforma": 1,
+      "controlbox_id": 33,
+      "channel": 50,
+      "strings": [
+        "01_01_33",
+        "01_02_33"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 34,
+      "plataforma": 1,
+      "controlbox_id": 34,
+      "channel": 50,
+      "strings": [
+        "01_01_34",
+        "01_02_34"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 35,
+      "plataforma": 1,
+      "controlbox_id": 35,
+      "channel": 50,
+      "strings": [
+        "01_01_35",
+        "01_02_35"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 36,
+      "plataforma": 1,
+      "controlbox_id": 36,
+      "channel": 50,
+      "strings": [
+        "01_01_36",
+        "01_02_36"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 37,
+      "plataforma": 1,
+      "controlbox_id": 37,
+      "channel": 50,
+      "strings": [
+        "01_01_37",
+        "01_02_37"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 38,
+      "plataforma": 1,
+      "controlbox_id": 38,
+      "channel": 50,
+      "strings": [
+        "01_01_38",
+        "01_02_38"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 39,
+      "plataforma": 1,
+      "controlbox_id": 39,
+      "channel": 50,
+      "strings": [
+        "01_01_39",
+        "01_02_39"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 40,
+      "plataforma": 1,
+      "controlbox_id": 40,
+      "channel": 50,
+      "strings": [
+        "01_01_40",
+        "01_02_40"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 41,
+      "plataforma": 1,
+      "controlbox_id": 41,
+      "channel": 50,
+      "strings": [
+        "01_01_41",
+        "01_02_41"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 42,
+      "plataforma": 1,
+      "controlbox_id": 42,
+      "channel": 50,
+      "strings": [
+        "01_01_42",
+        "01_02_42"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 43,
+      "plataforma": 1,
+      "controlbox_id": 43,
+      "channel": 50,
+      "strings": [
+        "01_01_43",
+        "01_02_43"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 44,
+      "plataforma": 1,
+      "controlbox_id": 44,
+      "channel": 50,
+      "strings": [
+        "01_01_44",
+        "01_02_44"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 45,
+      "plataforma": 1,
+      "controlbox_id": 45,
+      "channel": 50,
+      "strings": [
+        "01_01_45",
+        "01_02_45"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 46,
+      "plataforma": 1,
+      "controlbox_id": 46,
+      "channel": 50,
+      "strings": [
+        "01_01_46",
+        "01_02_46"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 47,
+      "plataforma": 1,
+      "controlbox_id": 47,
+      "channel": 50,
+      "strings": [
+        "01_01_47",
+        "01_02_47"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 48,
+      "plataforma": 1,
+      "controlbox_id": 48,
+      "channel": 50,
+      "strings": [
+        "01_01_48",
+        "01_02_48"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 49,
+      "plataforma": 1,
+      "controlbox_id": 49,
+      "channel": 50,
+      "strings": [
+        "01_01_49",
+        "01_02_49"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 50,
+      "plataforma": 1,
+      "controlbox_id": 50,
+      "channel": 50,
+      "strings": [
+        "01_01_50",
+        "01_02_50"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 51,
+      "plataforma": 1,
+      "controlbox_id": 51,
+      "channel": 50,
+      "strings": [
+        "01_01_51",
+        "01_02_51"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 52,
+      "plataforma": 1,
+      "controlbox_id": 52,
+      "channel": 50,
+      "strings": [
+        "01_01_52",
+        "01_02_52"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 53,
+      "plataforma": 1,
+      "controlbox_id": 53,
+      "channel": 50,
+      "strings": [
+        "01_01_53",
+        "01_02_53"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 54,
+      "plataforma": 1,
+      "controlbox_id": 54,
+      "channel": 50,
+      "strings": [
+        "01_01_54",
+        "01_02_54"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 55,
+      "plataforma": 1,
+      "controlbox_id": 55,
+      "channel": 50,
+      "strings": [
+        "01_01_55",
+        "01_02_55"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 56,
+      "plataforma": 1,
+      "controlbox_id": 56,
+      "channel": 50,
+      "strings": [
+        "01_01_56",
+        "01_02_56"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 57,
+      "plataforma": 1,
+      "controlbox_id": 57,
+      "channel": 50,
+      "strings": [
+        "01_01_57",
+        "01_02_57"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 58,
+      "plataforma": 1,
+      "controlbox_id": 58,
+      "channel": 50,
+      "strings": [
+        "01_01_58",
+        "01_02_58"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 59,
+      "plataforma": 1,
+      "controlbox_id": 59,
+      "channel": 50,
+      "strings": [
+        "01_01_59",
+        "01_02_59"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 60,
+      "plataforma": 1,
+      "controlbox_id": 60,
+      "channel": 50,
+      "strings": [
+        "01_01_60",
+        "01_02_60"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 61,
+      "plataforma": 1,
+      "controlbox_id": 61,
+      "channel": 50,
+      "strings": [
+        "01_01_61",
+        "01_02_61"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 62,
+      "plataforma": 1,
+      "controlbox_id": 62,
+      "channel": 50,
+      "strings": [
+        "01_01_62",
+        "01_02_62"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 63,
+      "plataforma": 1,
+      "controlbox_id": 63,
+      "channel": 50,
+      "strings": [
+        "01_01_63",
+        "01_02_63"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 64,
+      "plataforma": 1,
+      "controlbox_id": 64,
+      "channel": 50,
+      "strings": [
+        "01_01_64",
+        "01_02_64"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 65,
+      "plataforma": 1,
+      "controlbox_id": 65,
+      "channel": 50,
+      "strings": [
+        "01_01_65",
+        "01_02_65"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 66,
+      "plataforma": 1,
+      "controlbox_id": 66,
+      "channel": 50,
+      "strings": [
+        "01_01_66",
+        "01_02_66"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 67,
+      "plataforma": 1,
+      "controlbox_id": 67,
+      "channel": 50,
+      "strings": [
+        "01_01_67",
+        "01_02_67"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 68,
+      "plataforma": 1,
+      "controlbox_id": 68,
+      "channel": 50,
+      "strings": [
+        "01_01_68",
+        "01_02_68"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 69,
+      "plataforma": 1,
+      "controlbox_id": 69,
+      "channel": 50,
+      "strings": [
+        "01_01_69",
+        "01_02_69"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 70,
+      "plataforma": 1,
+      "controlbox_id": 70,
+      "channel": 50,
+      "strings": [
+        "01_01_70",
+        "01_02_70"
+      ],
+      "string_orders": [
+        1,
+        2
+      ]
+    },
+    {
+      "tk": 71,
+      "plataforma": 2,
+      "controlbox_id": 1,
+      "channel": 55,
+      "strings": [
+        "02_01_01"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 72,
+      "plataforma": 2,
+      "controlbox_id": 2,
+      "channel": 55,
+      "strings": [
+        "02_01_02"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 73,
+      "plataforma": 2,
+      "controlbox_id": 3,
+      "channel": 55,
+      "strings": [
+        "02_01_03"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 74,
+      "plataforma": 2,
+      "controlbox_id": 4,
+      "channel": 55,
+      "strings": [
+        "02_01_04"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 75,
+      "plataforma": 2,
+      "controlbox_id": 5,
+      "channel": 55,
+      "strings": [
+        "02_01_05"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 76,
+      "plataforma": 2,
+      "controlbox_id": 6,
+      "channel": 55,
+      "strings": [
+        "02_01_06"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 77,
+      "plataforma": 2,
+      "controlbox_id": 7,
+      "channel": 55,
+      "strings": [
+        "02_01_07"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 78,
+      "plataforma": 2,
+      "controlbox_id": 8,
+      "channel": 55,
+      "strings": [
+        "02_01_08"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 79,
+      "plataforma": 2,
+      "controlbox_id": 9,
+      "channel": 55,
+      "strings": [
+        "02_01_09"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 80,
+      "plataforma": 2,
+      "controlbox_id": 10,
+      "channel": 55,
+      "strings": [
+        "02_01_10"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 81,
+      "plataforma": 2,
+      "controlbox_id": 11,
+      "channel": 55,
+      "strings": [
+        "02_01_11"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 82,
+      "plataforma": 2,
+      "controlbox_id": 12,
+      "channel": 55,
+      "strings": [
+        "02_01_12"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 83,
+      "plataforma": 2,
+      "controlbox_id": 13,
+      "channel": 55,
+      "strings": [
+        "02_01_13"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 84,
+      "plataforma": 2,
+      "controlbox_id": 14,
+      "channel": 55,
+      "strings": [
+        "02_01_14"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 85,
+      "plataforma": 2,
+      "controlbox_id": 15,
+      "channel": 55,
+      "strings": [
+        "02_01_15"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 86,
+      "plataforma": 2,
+      "controlbox_id": 16,
+      "channel": 55,
+      "strings": [
+        "02_01_16"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 87,
+      "plataforma": 2,
+      "controlbox_id": 17,
+      "channel": 55,
+      "strings": [
+        "02_01_17"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 88,
+      "plataforma": 2,
+      "controlbox_id": 18,
+      "channel": 55,
+      "strings": [
+        "02_01_18"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 89,
+      "plataforma": 2,
+      "controlbox_id": 19,
+      "channel": 55,
+      "strings": [
+        "02_01_19"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 90,
+      "plataforma": 2,
+      "controlbox_id": 20,
+      "channel": 55,
+      "strings": [
+        "02_01_20"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 91,
+      "plataforma": 2,
+      "controlbox_id": 21,
+      "channel": 55,
+      "strings": [
+        "02_01_21"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 92,
+      "plataforma": 2,
+      "controlbox_id": 22,
+      "channel": 55,
+      "strings": [
+        "02_01_22"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 93,
+      "plataforma": 2,
+      "controlbox_id": 23,
+      "channel": 55,
+      "strings": [
+        "02_01_23"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 94,
+      "plataforma": 2,
+      "controlbox_id": 24,
+      "channel": 55,
+      "strings": [
+        "02_01_24"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 95,
+      "plataforma": 2,
+      "controlbox_id": 25,
+      "channel": 55,
+      "strings": [
+        "02_01_25"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 96,
+      "plataforma": 2,
+      "controlbox_id": 26,
+      "channel": 55,
+      "strings": [
+        "02_01_26"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 97,
+      "plataforma": 2,
+      "controlbox_id": 27,
+      "channel": 55,
+      "strings": [
+        "02_01_27"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 98,
+      "plataforma": 2,
+      "controlbox_id": 28,
+      "channel": 55,
+      "strings": [
+        "02_01_28"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 99,
+      "plataforma": 2,
+      "controlbox_id": 29,
+      "channel": 55,
+      "strings": [
+        "02_01_29"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 100,
+      "plataforma": 2,
+      "controlbox_id": 30,
+      "channel": 55,
+      "strings": [
+        "02_01_30"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 101,
+      "plataforma": 2,
+      "controlbox_id": 31,
+      "channel": 55,
+      "strings": [
+        "02_01_31"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 102,
+      "plataforma": 2,
+      "controlbox_id": 32,
+      "channel": 55,
+      "strings": [
+        "02_01_32"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 103,
+      "plataforma": 2,
+      "controlbox_id": 33,
+      "channel": 55,
+      "strings": [
+        "02_01_33"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 104,
+      "plataforma": 2,
+      "controlbox_id": 34,
+      "channel": 55,
+      "strings": [
+        "02_01_34"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 105,
+      "plataforma": 2,
+      "controlbox_id": 35,
+      "channel": 55,
+      "strings": [
+        "02_01_35"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 106,
+      "plataforma": 2,
+      "controlbox_id": 36,
+      "channel": 55,
+      "strings": [
+        "02_01_36"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 107,
+      "plataforma": 2,
+      "controlbox_id": 37,
+      "channel": 55,
+      "strings": [
+        "02_01_37"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 108,
+      "plataforma": 2,
+      "controlbox_id": 38,
+      "channel": 55,
+      "strings": [
+        "02_01_38"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 109,
+      "plataforma": 2,
+      "controlbox_id": 39,
+      "channel": 55,
+      "strings": [
+        "02_01_39"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 110,
+      "plataforma": 2,
+      "controlbox_id": 40,
+      "channel": 55,
+      "strings": [
+        "02_01_40"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 111,
+      "plataforma": 2,
+      "controlbox_id": 41,
+      "channel": 55,
+      "strings": [
+        "02_01_41"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 112,
+      "plataforma": 2,
+      "controlbox_id": 42,
+      "channel": 55,
+      "strings": [
+        "02_01_42"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 113,
+      "plataforma": 2,
+      "controlbox_id": 43,
+      "channel": 55,
+      "strings": [
+        "02_01_43"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 114,
+      "plataforma": 2,
+      "controlbox_id": 44,
+      "channel": 55,
+      "strings": [
+        "02_01_44"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 115,
+      "plataforma": 2,
+      "controlbox_id": 45,
+      "channel": 55,
+      "strings": [
+        "02_01_45"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 116,
+      "plataforma": 2,
+      "controlbox_id": 46,
+      "channel": 55,
+      "strings": [
+        "02_01_46"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 117,
+      "plataforma": 2,
+      "controlbox_id": 47,
+      "channel": 55,
+      "strings": [
+        "02_01_47"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 118,
+      "plataforma": 2,
+      "controlbox_id": 48,
+      "channel": 55,
+      "strings": [
+        "02_01_48"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 119,
+      "plataforma": 2,
+      "controlbox_id": 49,
+      "channel": 55,
+      "strings": [
+        "02_01_49"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 120,
+      "plataforma": 2,
+      "controlbox_id": 50,
+      "channel": 55,
+      "strings": [
+        "02_01_50"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 121,
+      "plataforma": 2,
+      "controlbox_id": 51,
+      "channel": 55,
+      "strings": [
+        "02_01_51"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 122,
+      "plataforma": 2,
+      "controlbox_id": 52,
+      "channel": 55,
+      "strings": [
+        "02_01_52"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 123,
+      "plataforma": 2,
+      "controlbox_id": 53,
+      "channel": 55,
+      "strings": [
+        "02_01_53"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 124,
+      "plataforma": 2,
+      "controlbox_id": 54,
+      "channel": 55,
+      "strings": [
+        "02_01_54"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 125,
+      "plataforma": 2,
+      "controlbox_id": 55,
+      "channel": 55,
+      "strings": [
+        "02_01_55"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 126,
+      "plataforma": 2,
+      "controlbox_id": 56,
+      "channel": 55,
+      "strings": [
+        "02_01_56"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 127,
+      "plataforma": 2,
+      "controlbox_id": 57,
+      "channel": 55,
+      "strings": [
+        "02_01_57"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 128,
+      "plataforma": 2,
+      "controlbox_id": 58,
+      "channel": 55,
+      "strings": [
+        "02_01_58"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 129,
+      "plataforma": 2,
+      "controlbox_id": 59,
+      "channel": 55,
+      "strings": [
+        "02_01_59"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 130,
+      "plataforma": 2,
+      "controlbox_id": 60,
+      "channel": 55,
+      "strings": [
+        "02_01_60"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 131,
+      "plataforma": 2,
+      "controlbox_id": 61,
+      "channel": 55,
+      "strings": [
+        "02_01_61"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 132,
+      "plataforma": 2,
+      "controlbox_id": 62,
+      "channel": 55,
+      "strings": [
+        "02_01_62"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 133,
+      "plataforma": 2,
+      "controlbox_id": 63,
+      "channel": 55,
+      "strings": [
+        "02_01_63"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 134,
+      "plataforma": 2,
+      "controlbox_id": 64,
+      "channel": 55,
+      "strings": [
+        "02_01_64"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 135,
+      "plataforma": 2,
+      "controlbox_id": 65,
+      "channel": 55,
+      "strings": [
+        "02_01_65"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 136,
+      "plataforma": 2,
+      "controlbox_id": 66,
+      "channel": 55,
+      "strings": [
+        "02_01_66"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 137,
+      "plataforma": 2,
+      "controlbox_id": 67,
+      "channel": 55,
+      "strings": [
+        "02_01_67"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 138,
+      "plataforma": 2,
+      "controlbox_id": 68,
+      "channel": 55,
+      "strings": [
+        "02_01_68"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 139,
+      "plataforma": 2,
+      "controlbox_id": 69,
+      "channel": 55,
+      "strings": [
+        "02_01_69"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 140,
+      "plataforma": 2,
+      "controlbox_id": 70,
+      "channel": 55,
+      "strings": [
+        "02_01_70"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 141,
+      "plataforma": 3,
+      "controlbox_id": 1,
+      "channel": 65,
+      "strings": [
+        "03_01_01"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 142,
+      "plataforma": 3,
+      "controlbox_id": 2,
+      "channel": 65,
+      "strings": [
+        "03_01_02"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 143,
+      "plataforma": 3,
+      "controlbox_id": 3,
+      "channel": 65,
+      "strings": [
+        "03_01_03"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 144,
+      "plataforma": 3,
+      "controlbox_id": 4,
+      "channel": 65,
+      "strings": [
+        "03_01_04"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 145,
+      "plataforma": 3,
+      "controlbox_id": 5,
+      "channel": 65,
+      "strings": [
+        "03_01_05"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 146,
+      "plataforma": 3,
+      "controlbox_id": 6,
+      "channel": 65,
+      "strings": [
+        "03_01_06"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 147,
+      "plataforma": 3,
+      "controlbox_id": 7,
+      "channel": 65,
+      "strings": [
+        "03_01_07"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 148,
+      "plataforma": 3,
+      "controlbox_id": 8,
+      "channel": 65,
+      "strings": [
+        "03_01_08"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 149,
+      "plataforma": 3,
+      "controlbox_id": 9,
+      "channel": 65,
+      "strings": [
+        "03_01_09"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 150,
+      "plataforma": 3,
+      "controlbox_id": 10,
+      "channel": 65,
+      "strings": [
+        "03_01_10"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 151,
+      "plataforma": 3,
+      "controlbox_id": 11,
+      "channel": 65,
+      "strings": [
+        "03_01_11"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 152,
+      "plataforma": 3,
+      "controlbox_id": 12,
+      "channel": 65,
+      "strings": [
+        "03_01_12"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 153,
+      "plataforma": 3,
+      "controlbox_id": 13,
+      "channel": 65,
+      "strings": [
+        "03_01_13"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 154,
+      "plataforma": 3,
+      "controlbox_id": 14,
+      "channel": 65,
+      "strings": [
+        "03_01_14"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 155,
+      "plataforma": 3,
+      "controlbox_id": 15,
+      "channel": 65,
+      "strings": [
+        "03_01_15"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 156,
+      "plataforma": 3,
+      "controlbox_id": 16,
+      "channel": 65,
+      "strings": [
+        "03_01_16"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 157,
+      "plataforma": 3,
+      "controlbox_id": 17,
+      "channel": 65,
+      "strings": [
+        "03_01_17"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 158,
+      "plataforma": 3,
+      "controlbox_id": 18,
+      "channel": 65,
+      "strings": [
+        "03_01_18"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 159,
+      "plataforma": 3,
+      "controlbox_id": 19,
+      "channel": 65,
+      "strings": [
+        "03_01_19"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 160,
+      "plataforma": 3,
+      "controlbox_id": 20,
+      "channel": 65,
+      "strings": [
+        "03_01_20"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 161,
+      "plataforma": 3,
+      "controlbox_id": 21,
+      "channel": 65,
+      "strings": [
+        "03_01_21"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 162,
+      "plataforma": 3,
+      "controlbox_id": 22,
+      "channel": 65,
+      "strings": [
+        "03_01_22"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 163,
+      "plataforma": 3,
+      "controlbox_id": 23,
+      "channel": 65,
+      "strings": [
+        "03_01_23"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 164,
+      "plataforma": 3,
+      "controlbox_id": 24,
+      "channel": 65,
+      "strings": [
+        "03_01_24"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 165,
+      "plataforma": 3,
+      "controlbox_id": 25,
+      "channel": 65,
+      "strings": [
+        "03_01_25"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 166,
+      "plataforma": 3,
+      "controlbox_id": 26,
+      "channel": 65,
+      "strings": [
+        "03_01_26"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 167,
+      "plataforma": 3,
+      "controlbox_id": 27,
+      "channel": 65,
+      "strings": [
+        "03_01_27"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 168,
+      "plataforma": 3,
+      "controlbox_id": 28,
+      "channel": 65,
+      "strings": [
+        "03_01_28"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 169,
+      "plataforma": 3,
+      "controlbox_id": 29,
+      "channel": 65,
+      "strings": [
+        "03_01_29"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 170,
+      "plataforma": 3,
+      "controlbox_id": 30,
+      "channel": 65,
+      "strings": [
+        "03_01_30"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 171,
+      "plataforma": 3,
+      "controlbox_id": 31,
+      "channel": 65,
+      "strings": [
+        "03_01_31"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 172,
+      "plataforma": 3,
+      "controlbox_id": 32,
+      "channel": 65,
+      "strings": [
+        "03_01_32"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 173,
+      "plataforma": 3,
+      "controlbox_id": 33,
+      "channel": 65,
+      "strings": [
+        "03_01_33"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 174,
+      "plataforma": 3,
+      "controlbox_id": 34,
+      "channel": 65,
+      "strings": [
+        "03_01_34"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 175,
+      "plataforma": 3,
+      "controlbox_id": 35,
+      "channel": 65,
+      "strings": [
+        "03_01_35"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 176,
+      "plataforma": 3,
+      "controlbox_id": 36,
+      "channel": 65,
+      "strings": [
+        "03_01_36"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 177,
+      "plataforma": 3,
+      "controlbox_id": 37,
+      "channel": 65,
+      "strings": [
+        "03_01_37"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 178,
+      "plataforma": 3,
+      "controlbox_id": 38,
+      "channel": 65,
+      "strings": [
+        "03_01_38"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 179,
+      "plataforma": 3,
+      "controlbox_id": 39,
+      "channel": 65,
+      "strings": [
+        "03_01_39"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 180,
+      "plataforma": 3,
+      "controlbox_id": 40,
+      "channel": 65,
+      "strings": [
+        "03_01_40"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 181,
+      "plataforma": 3,
+      "controlbox_id": 41,
+      "channel": 65,
+      "strings": [
+        "03_01_41"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 182,
+      "plataforma": 3,
+      "controlbox_id": 42,
+      "channel": 65,
+      "strings": [
+        "03_01_42"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 183,
+      "plataforma": 3,
+      "controlbox_id": 43,
+      "channel": 65,
+      "strings": [
+        "03_01_43"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 184,
+      "plataforma": 3,
+      "controlbox_id": 44,
+      "channel": 65,
+      "strings": [
+        "03_01_44"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 185,
+      "plataforma": 3,
+      "controlbox_id": 45,
+      "channel": 65,
+      "strings": [
+        "03_01_45"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 186,
+      "plataforma": 3,
+      "controlbox_id": 46,
+      "channel": 65,
+      "strings": [
+        "03_01_46"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 187,
+      "plataforma": 3,
+      "controlbox_id": 47,
+      "channel": 65,
+      "strings": [
+        "03_01_47"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 188,
+      "plataforma": 3,
+      "controlbox_id": 48,
+      "channel": 65,
+      "strings": [
+        "03_01_48"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 189,
+      "plataforma": 3,
+      "controlbox_id": 49,
+      "channel": 65,
+      "strings": [
+        "03_01_49"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 190,
+      "plataforma": 3,
+      "controlbox_id": 50,
+      "channel": 65,
+      "strings": [
+        "03_01_50"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 191,
+      "plataforma": 3,
+      "controlbox_id": 51,
+      "channel": 65,
+      "strings": [
+        "03_01_51"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 192,
+      "plataforma": 3,
+      "controlbox_id": 52,
+      "channel": 65,
+      "strings": [
+        "03_01_52"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 193,
+      "plataforma": 3,
+      "controlbox_id": 53,
+      "channel": 65,
+      "strings": [
+        "03_01_53"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 194,
+      "plataforma": 3,
+      "controlbox_id": 54,
+      "channel": 65,
+      "strings": [
+        "03_01_54"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 195,
+      "plataforma": 3,
+      "controlbox_id": 55,
+      "channel": 65,
+      "strings": [
+        "03_01_55"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 196,
+      "plataforma": 3,
+      "controlbox_id": 56,
+      "channel": 65,
+      "strings": [
+        "03_01_56"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 197,
+      "plataforma": 3,
+      "controlbox_id": 57,
+      "channel": 65,
+      "strings": [
+        "03_01_57"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 198,
+      "plataforma": 3,
+      "controlbox_id": 58,
+      "channel": 65,
+      "strings": [
+        "03_01_58"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 199,
+      "plataforma": 3,
+      "controlbox_id": 59,
+      "channel": 65,
+      "strings": [
+        "03_01_59"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 200,
+      "plataforma": 3,
+      "controlbox_id": 60,
+      "channel": 65,
+      "strings": [
+        "03_01_60"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 201,
+      "plataforma": 3,
+      "controlbox_id": 61,
+      "channel": 65,
+      "strings": [
+        "03_01_61"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 202,
+      "plataforma": 3,
+      "controlbox_id": 62,
+      "channel": 65,
+      "strings": [
+        "03_01_62"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 203,
+      "plataforma": 3,
+      "controlbox_id": 63,
+      "channel": 65,
+      "strings": [
+        "03_01_63"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 204,
+      "plataforma": 3,
+      "controlbox_id": 64,
+      "channel": 65,
+      "strings": [
+        "03_01_64"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 205,
+      "plataforma": 3,
+      "controlbox_id": 65,
+      "channel": 65,
+      "strings": [
+        "03_01_65"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 206,
+      "plataforma": 3,
+      "controlbox_id": 66,
+      "channel": 65,
+      "strings": [
+        "03_01_66"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 207,
+      "plataforma": 3,
+      "controlbox_id": 67,
+      "channel": 65,
+      "strings": [
+        "03_01_67"
+      ],
+      "string_orders": [
+        1
+      ]
+    },
+    {
+      "tk": 208,
+      "plataforma": 3,
+      "controlbox_id": 68,
+      "channel": 65,
+      "strings": [
+        "03_01_68"
+      ],
+      "string_orders": [
+        1
+      ]
+    }
+  ]
+}
