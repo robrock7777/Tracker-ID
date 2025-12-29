@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>TrackerID – O&M Lookup</title>
+  <meta name="theme-color" content="#ffffff" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="icons/icon-192.png" />
+  <style>
+    :root { --fg:#111; --muted:#666; --bg:#fff; --card:#f7f7f8; --line:#e6e6e9; --ok:#0a7; --bad:#d33; }
+    * { box-sizing: border-box; }
+    body { margin:0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; color:var(--fg); background:var(--bg); }
+    header { position:sticky; top:0; background:rgba(255,255,255,.92); backdrop-filter: blur(8px); border-bottom:1px solid var(--line); padding:12px 14px; z-index:10; }
+    .row { display:flex; gap:10px; align-items:center; flex-wrap:wrap; }
+    .brand { display:flex; gap:10px; align-items:center; }
+    .brand img { width:34px; height:34px; border-radius:10px; }
+    .brand h1 { font-size:16px; margin:0; }
+    .brand .sub { font-size:12px; color:var(--muted); margin-top:2px; }
+    main { padding:14px; max-width:1000px; margin:0 auto; }
+    .grid { display:grid; grid-template-columns: 1fr; gap:12px; }
+    @media (min-width: 860px) { .grid { grid-template-columns: 1.25fr 0.75fr; } }
+    .card { background:var(--card); border:1px solid var(--line); border-radius:16px; padding:12px; }
+    .card h2 { margin:0 0 10px; font-size:14px; }
+    label { font-size:12px; color:var(--muted); display:block; margin-bottom:4px; }
+    input, select, button, textarea { font:inherit; padding:10px 10px; border-radius:12px; border:1px solid var(--line); background:#fff; }
+    textarea { width:100%; min-height:84px; resize:vertical; }
+    button { cursor:pointer; background:#fff; }
+    button.primary { border-color:#0000001c; }
+    button:disabled { opacity:.55; cursor:not-allowed; }
+    .pill { font-size:12px; padding:6px 10px; border-radius:999px; border:1px solid var(--line); background:#fff; color:var(--muted); }
+    .status { display:flex; gap:8px; align-items:center; flex-wrap:wrap; }
+    .dot { width:10px; height:10px; border-radius:99px; background:var(--bad); display:inline-block; }
+    .dot.ok { background:var(--ok); }
+    .tabs { display:flex; gap:8px; flex-wrap:wrap; margin-top:10px; }
+    .tabs button { padding:8px 10px; border-radius:999px; }
+    .tabs button.active { border-color:#111; color:#111; }
+    .kvs { display:grid; grid-template-columns: 140px 1fr; gap:8px; font-size:14px; }
+    .kvs div:nth-child(odd){ color:var(--muted); }
+    .list { display:flex; flex-direction:column; gap:8px; max-height:420px; overflow:auto; padding-right:4px; }
+    .item { background:#fff; border:1px solid var(--line); border-radius:14px; padding:10px; display:flex; justify-content:space-between; gap:10px; }
+    .item b { font-size:14px; }
+    .item small { color:var(--muted); }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .two { display:grid; grid-template-columns: 1fr; gap:10px; }
+    @media (min-width: 620px) { .two { grid-template-columns: 1fr 1fr; } }
+    .hint { font-size:12px; color:var(--muted); margin-top:6px; }
+    .sep { height:1px; background:var(--line); margin:10px 0; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="row" style="justify-content:space-between;">
+      <div class="brand">
+        <img src="icons/icon-192.png" alt="TrackerID"/>
+        <div>
+          <h1>TrackerID</h1>
+          <div class="sub">O&M Lookup • Trackers / ControlBox / Strings (CT_CB_ST)</div>
+        </div>
+      </div>
+      <div class="status">
+        <span class="pill" id="pillPark">Sin parque</span>
+        <span class="pill" id="pillCount">0 TK</span>
+        <span class="pill"><span class="dot" id="dotNet"></span> <span id="netTxt">offline</span></span>
+      </div>
+    </div>
+
+    <div class="tabs" role="tablist" aria-label="Secciones">
+      <button class="active" data-tab="buscar">Buscar</button>
+      <button data-tab="listado">Listado</button>
+      <button data-tab="admin">Admin</button>
+      <button data-tab="ayuda">Ayuda</button>
+    </div>
+  </header>
+
+  <main>
+    <div class="grid">
+      <section class="card" id="panelMain">
+        <!-- content injected -->
+      </section>
+
+      <aside class="card">
+        <h2>Parque</h2>
+        <div class="two">
+          <div>
+            <label for="parkSelect">Selecciona parque</label>
+            <select id="parkSelect"></select>
+          </div>
+          <div>
+            <label>&nbsp;</label>
+            <button class="primary" id="btnLoad">Cargar</button>
+          </div>
+        </div>
+        <div class="hint" id="parkHint">Tip: carga un parque una vez con señal y queda disponible offline.</div>
+        <div class="sep"></div>
+        <h2>Acciones rápidas</h2>
+        <div class="two">
+          <button id="btnCopy">Copiar resultado</button>
+          <button id="btnClear">Limpiar</button>
+        </div>
+        <div class="hint">El botón “Copiar” deja un texto listo para WhatsApp/bitácora.</div>
+      </aside>
+    </div>
+  </main>
+
+<script src="app.js"></script>
+</body>
+</html>

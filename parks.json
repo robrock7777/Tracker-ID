@@ -1,0 +1,27 @@
+[
+  {
+    "id": "pmdg026",
+    "name": "Farol (PMGD026)",
+    "data": "data/pmdg026.json"
+  },
+  {
+    "id": "pmdg027",
+    "name": "Andromeda (PMGD027)",
+    "data": "data/pmdg027.json"
+  },
+  {
+    "id": "pmdg029",
+    "name": "Toledo (PMGD029)",
+    "data": "data/pmdg029.json"
+  },
+  {
+    "id": "pmdg033",
+    "name": "Cauce (PMGD033)",
+    "data": "data/pmdg033.json"
+  },
+  {
+    "id": "pmdg034",
+    "name": "Lince (PMGD034)",
+    "data": "data/pmdg034.json"
+  }
+]
